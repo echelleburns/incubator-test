@@ -1,5 +1,5 @@
 ---
-title: "Introduction to R and RStudio - test"
+title: "Introduction to R and RStudio"
 teaching: 45
 exercises: 4
 ---
